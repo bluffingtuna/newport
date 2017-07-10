@@ -49,6 +49,10 @@ a:focus {
   text-decoration: none;
   color: #1d9b6c;
 }
+.img-responsive{
+  width:500px;
+  height:250px;
+}
 #bio-pic{
   border-radius: 100%;
 }
